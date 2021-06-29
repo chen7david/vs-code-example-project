@@ -8,9 +8,11 @@
     - <code>$ git config --global user.name "write-your-name-here" </code>
     - <code>$ git config --global user.email "write-your-email-here" </code>
 5. You will be asked to log in on git hub, complete the authorization and you are done.
+6. Disable/uncheck <code>Explorer: Compact Folders</code> in your settings.
 
 #### Installing Packages
 - mithril emmet
 - material theme
 - material icon theme
 - category:themes facebook
+- vetur
